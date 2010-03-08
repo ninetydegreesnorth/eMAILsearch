@@ -5,6 +5,7 @@ eMAILsearch is a fork of the open source reMail project.  reMail downloads all y
 
 This fork has added the following:
 
+* Updated home screen UI to a more table like view
 * Fixed build process that could not find openssl headers
 * Landscape view
 
