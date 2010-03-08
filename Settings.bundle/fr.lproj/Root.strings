@@ -1,0 +1,23 @@
+﻿/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+
+"Account" = "Compte email";
+"Offline" = "Offline";
+"Username" = "Identifiant";
+"Password" = "Mot de Passe";
+"Connect Interval" = "Intervalle de connexion";
+"Help us Promote eMAILsearch" = "Signature eMAILsearch dans les réponses";
+"Signature" = "Recommander";
+"Help us Improve eMAILsearch" = "Envoyer info diagnostique à eMAILsearch";
+"Send Diagnostics" = "Info diagnostique";
+"Search History" = "Historique des recherches";
+"Clear Search History" = "Supprimer Historique";
+"Account Type" = "Type de compte";
+"Encryption" = "Encryption";
+"Authentication" = "Authentification";
+"Delete All Data" = "Supprimer tous";
+"Attachment Cache" = "Supprimer pièces jointes";
+"Clear Data" = "Supprimer tous";
+"Reset eMAILsearch" = "Supprimer tous l'info dans eMAILsearch";
+"Limit Download to Last Year" = "Télécharger seulement nouveaux e-mails";
+"Only last 12 months" = "Seuls les 12 derniers mois";
+"Logging" = "Log de tout";
